@@ -512,7 +512,7 @@ export default function ClientAddressParser() {
                                                 </svg>
                                             </div>
                                             <h3 className="text-sm font-medium text-gray-700 mb-1">Chưa có kết quả</h3>
-                                            <p className="text-xs text-gray-500">Nhập địa chỉ và nhấn "Phân tích" để bắt đầu</p>
+                                            <p className="text-xs text-gray-500">Nhập địa chỉ và nhấn &quot;Phân tích&quot; để bắt đầu</p>
                                         </div>
                                     )}
                                 </div>
